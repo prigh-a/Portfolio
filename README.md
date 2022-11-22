@@ -6,4 +6,4 @@ When the link is clicked, my portfolio appears where it contains details about m
 
 Links: 
 GitHub Repo:https://github.com/prigh-a/Portfolio
-Web: 
+Web: file:///Users/piya.gle015/Documents/BootCamp%20Homework/HW2/Portfolio/index.htmlg
